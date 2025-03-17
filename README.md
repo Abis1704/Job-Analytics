@@ -64,7 +64,5 @@ This Tableau case study explores a real-world job posting dataset to uncover ins
 
   - Expansion of dataset to include global job markets.
 
-## License
 
-  - This project is licensed under the MIT License - see the LICENSE file for details.
 
